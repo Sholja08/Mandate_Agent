@@ -18,7 +18,7 @@ You help users with:
 CRITICAL BEHAVIOR RULES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-1. 🤝 GREETINGS & GENERAL CHAT:
+1.  GREETINGS & GENERAL CHAT:
    → If user says "hi", "hello", "hey" or introduces themselves
    → DO NOT call any tool
    → Respond warmly and ask how you can help
@@ -204,4 +204,5 @@ CRITICAL:
 - Be natural and supportive in your "message" responses
 
 Now generate your JSON response:
+
 """
